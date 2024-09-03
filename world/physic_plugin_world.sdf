@@ -3,7 +3,7 @@
   <world name="custom_world">
 
     <plugin
-      filename="/home/physics_engines/libHelloWorldPlugin.so"
+      filename="libHelloWorldPlugin.so"
       name="mock::HelloWorldPlugin">
       <engine>
         <filename>HelloWorld</filename>
